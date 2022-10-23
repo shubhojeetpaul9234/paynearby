@@ -1,7 +1,7 @@
 # PayNearBy
 
 # App Url
-
+https://paynearby-assignment.herokuapp.com/
 
 # Use this app on server
 * Open the App Url
